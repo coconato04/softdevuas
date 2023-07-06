@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "307529195986",
+    "project_id": "softdevuas",
+    "storage_bucket": "softdevuas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307529195986:android:6310bec34a10e0d3b7e80b",
+        "android_client_info": {
+          "package_name": "com.nata.softdevuas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307529195986-mqpatdirmh1pmmlnc65gc911f0om6u5j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nata.softdevuas",
+            "certificate_hash": "0c9ac7f65d871fe6b426d37f5127a1f32f1e5475"
+          }
+        },
+        {
+          "client_id": "307529195986-9jvgfe9sd6g2du4g9snh4ov0vcj1buoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBagYyds3GQ3wp2LbMzcVjKorGwxbJSaQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307529195986-9jvgfe9sd6g2du4g9snh4ov0vcj1buoh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "307529195986-u3l1s4u4qjbublmdtckbe0krf1so7bet.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nata.softdevuas"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
