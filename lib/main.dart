@@ -8,8 +8,7 @@ import 'package:softdevuas/services/Notification.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
-  NotificationHelper()
-      .initializeNotifications(); // Tambahkan ini untuk inisialisasi notifikasi
+  NotificationHelper().initializeNotifications(); //inisialisasi notifikasi
   runApp(const MyApp());
 }
 
